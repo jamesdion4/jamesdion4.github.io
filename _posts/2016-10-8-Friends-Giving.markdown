@@ -14,4 +14,6 @@ Warm apple cider bar (with various spirits)<br/>
 Red Sangria<br/>
 Both a turkey and a ham!<br/>
 
+Let me know if you are able to attend by text or email!<br/>
+
 ![Classy R2D2]({{ site.url }}/assets/channel-surfer-best-simpsons-thanksgiving-episodes-all-time.jpg)

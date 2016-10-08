@@ -10,9 +10,9 @@ Hey Everyone!
 Michelle and I would like to host Friendsgiving this year on Saturday, November 12th. Appetizers available around 2pm, with dinner being served around 3pm. Please feel free to bring your favorite Thanksgiving dish or beverage. 
 
 Some of this years friendsgiving upgrades include the following:<br/>
-*Warm apple cider bar (with various spirits)<br/>
-*Red Sangria<br/>
-*Both a turkey and a ham!<br/>
+* Warm apple cider bar (with various spirits)<br/>
+* Red Sangria<br/>
+* Both a turkey and a ham!<br/>
 
 Let me know if you are able to attend by text or email! +1's are welcome.<br/>
 

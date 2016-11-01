@@ -7,5 +7,5 @@ categories: jekyll update
 
 My Stranger Things inspired Halloween decoration!
 
-{% include youtubePlayer.html id=page.aUxOV9eeZqo %}
+<iframe width="420" height="315" src="http://www.youtube.com/watch?v=aUxOV9eeZqo" frameborder="0" allowfullscreen></iframe>
 
